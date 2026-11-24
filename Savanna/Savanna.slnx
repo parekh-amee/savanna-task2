@@ -3,4 +3,6 @@
     <File Path=".gitignore" />
   </Folder>
   <Project Path="../Savanna.Console/Savanna.Console.csproj" />
+  <Project Path="Savanna.Core/Savanna.Core.csproj" Id="74d91abb-cbe1-47c1-a22c-14e229827441" />
+  <Project Path="Savanna.Tests/Savanna.Tests.csproj" Id="119b3cfd-7d5f-457e-8e36-ec67ca8b5459" />
 </Solution>
